@@ -12,7 +12,7 @@
 
 ## 결과물
 * 기본 화면
-* <img src = "https://user-images.githubusercontent.com/59829606/111575325-71243b00-87f1-11eb-8421-b8e96fa6eb07.png"> 
+* <img src = "https://user-images.githubusercontent.com/59829606/111575325-71243b00-87f1-11eb-8421-b8e96fa6eb07.png" width="40%"> 
 >![image](https://user-images.githubusercontent.com/59829606/111575325-71243b00-87f1-11eb-8421-b8e96fa6eb07.png)
 * 그리기 모드
 >![image](https://user-images.githubusercontent.com/59829606/111575392-9ca72580-87f1-11eb-82e6-167749bc5930.png)
