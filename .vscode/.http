@@ -1,0 +1,15 @@
+GET http://google.com
+
+###
+POST https://google.com
+Authorization: JST jtjtjtj
+Content-Type: "allpication/json"
+
+{
+  "hello": "love"
+}
+
+###
+GET https://api.clashofclans.com/v1/clans/%252Y2Y9YCUU
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjdlZjY0ZTllLTE2YWYtNGMyYy05NzFiLWRmYTQzMjQwNmJiYSIsImlhdCI6MTYxNTk2MjgzMywic3ViIjoiZGV2ZWxvcGVyLzcxMzRhNzg2LWE4ZjQtMjE2Yi03ZDU4LTViYWFhZmM4YTliMCIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjIxMS4yMzAuNTYuMTM3Il0sInR5cGUiOiJjbGllbnQifV19.U9b4fmUGdFOaa7-0XYjd91gZaBymgudTdkmb8KTpCwC6J-VkBZrKV_g-hvtLjCDn7zifgwmlPXe3U0ewpyNRNQ
