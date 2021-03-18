@@ -22,4 +22,5 @@
 * 색칠 모드
 >![image](https://user-images.githubusercontent.com/59829606/111575488-cbbd9700-87f1-11eb-9932-b024b64f6391.png)
 * 저장
-![Uploading image.png…]()
+>![image](https://user-images.githubusercontent.com/59829606/111575529-e4c64800-87f1-11eb-8e16-091fb9a6f3e7.png)
+
